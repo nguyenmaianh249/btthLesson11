@@ -1,0 +1,42 @@
+p {
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: rgb(226, 223, 223);
+    border-width: 1px;
+    margin-left: 350px;
+}
+
+table tr th {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+}
+
+#tieudebang {
+    background-color: #008000;
+    color: white;
+    width: 600px;
+}
+
+span {
+    color: red;
+}
+
+#dong2 {
+    height: 50px;
+}
+
+th {
+    height: 30px;
+}
+
+.cot3 {
+    text-align: left;
+}
